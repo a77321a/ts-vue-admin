@@ -1,2 +1,2 @@
-# ts-vue-admin
-TypeScript vue admin platform
+# vue-admin
+vue admin platform
